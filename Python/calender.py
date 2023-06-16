@@ -1,14 +1,9 @@
-<<<<<<< HEAD
+
 import calendar
 
-year = int(input("Enter year: "))
-month = int(input("Enter month: "))
+year= int(input("give the year:- "));
 
-=======
-import calendar
+month= int(input("give the month:- "));
 
-year = int(input("Enter year: "))
-month = int(input("Enter month: "))
 
->>>>>>> ddad8b84b1d9f077721bf9551a2d1096a95b6068
-print(calendar.month(year,month))
+print(calendar.month(year,month));

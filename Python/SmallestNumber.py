@@ -8,3 +8,15 @@ for i in numbers:
 
 
 print("the smallest number is:- ", smallest);
+
+
+
+# numbers=[10,11,12,13,5,15,16,17,18,19,20];
+
+# minnumber= min(numbers)
+
+# numbers.remove(minnumber)
+
+# secondminnumber= min(numbers)
+
+# print(secondminnumber);
